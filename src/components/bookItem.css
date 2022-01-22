@@ -23,15 +23,15 @@
 }
 
 .book-category {
-
+  /* ... */
 }
 
 .book-title {
-
+  /* ... */
 }
 
 .book-author {
-
+  /* ... */
 }
 
 .interactions {
@@ -39,7 +39,7 @@
   justify-content: space-between;
 }
 
-.interactions>li {
+.interactions > li {
   border: none;
   background-color: transparent;
 }
@@ -53,5 +53,5 @@
 }
 
 .book-chapter {
-  
+  /* ... */
 }
